@@ -1,0 +1,17 @@
+{
+  "source_dir": "/Users/shaf/Downloads",
+  "folders": {
+    "Images": [".jpg", ".jpeg", ".png", ".gif", ".heic", ".heif", ".webp"],
+    "Documents": [".pdf", ".docx", ".txt", ".xlsx", ".pages", ".numbers", ".keynote", ".pptx", ".csv", ".md"],
+    "Installers": [".exe", ".msi", ".dmg", ".pkg"],
+    "Compressed": [".zip", ".rar", ".7z"],
+    "Audio": [".mp3", ".m4a", ".wav", ".aac"],
+    "Video": [".mp4", ".mov", ".m4v", ".mkv"]
+  },
+
+  "archive_settings": {
+    "move_old_files_to_archive": true,
+    "days_threshold": 30,
+    "archive_folder_name": "Archive"
+  }
+}
